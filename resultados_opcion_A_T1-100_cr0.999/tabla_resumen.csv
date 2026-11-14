@@ -1,0 +1,4 @@
+tamano,T_optima,mediana_boot,IC95_inf,IC95_sup,conclusion
+5,18.624284,216.56181155042697,216.56181155042697,216.56181155042697,sin variabilidad: cualquier T0 da el mismo costo
+10,18.624284,285.6392162653248,285.6392162653248,285.6392162653249,sin variabilidad: cualquier T0 da el mismo costo
+15,18.624284,395.83218321411704,395.832183214117,395.8321832141171,"T0 sin efecto significativo (menor mediana, no concluyente)"

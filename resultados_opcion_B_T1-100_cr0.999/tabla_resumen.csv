@@ -1,0 +1,4 @@
+tamano,T_optima,T_star_sin_recorte,beta2,p_beta2,p_falta_ajuste,nivel_evaluado_cercano,mediana_boot,IC95_inf,IC95_sup,conclusion
+5,,,,,,,216.56181155042697,216.56181155042697,216.56181155042697,sin variabilidad: cualquier T0 da el mismo costo
+10,,,,,,,285.6392162653248,285.6392162653248,285.6392162653248,sin variabilidad: cualquier T0 da el mismo costo
+15,12.749523,2070.1930096762007,-2.2012951551908522e-05,0.9902494259364135,0.24730615258877237,12.749523,395.83218321411704,395.832183214117,395.8321832141171,curvatura no significativa: T* no concluyente
